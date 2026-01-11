@@ -1,0 +1,1 @@
+The folder contains the Python code used for the numerical examples presented in the work https://arxiv.org/abs/2601.01248 . The implemented algorithms are based on the stochastic control methods introduced and analyzed in that paper.
