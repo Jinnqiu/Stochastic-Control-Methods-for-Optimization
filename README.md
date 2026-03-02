@@ -1,1 +1,3 @@
 The folder contains the Python code used for the numerical examples presented in the work https://arxiv.org/abs/2601.01248 . The implemented algorithms are based on the stochastic control methods introduced and analyzed in that paper.
+
+All codes can be executed on a standard laptop using CPU resources, with the exception of snake-horse-0301.py, which may need access to a GPU for proper execution. The file run_arc_a100_0301.slurm is configured to submit and run snake-horse-0301.py on the Advanced Research Computing (ARC) cluster at the University of Calgary, specifically utilizing an NVIDIA A100 GPU. Detailed information about the ARC cluster and job submission procedures is available at: https://rcs.ucalgary.ca/ARC_Cluster_Guide .
